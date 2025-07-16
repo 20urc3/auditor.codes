@@ -1,3 +1,34 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=20urc3&project=auditor.codes&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=20urc3&project=auditor.codes&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=20urc3&project=auditor.codes&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=20urc3&project=auditor.codes&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=20urc3&project=auditor.codes&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=20urc3&project=auditor.codes&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=20urc3&project=auditor.codes&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=20urc3&project=auditor.codes&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=20urc3&project=auditor.codes&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=20urc3&project=auditor.codes&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=20urc3&project=auditor.codes&lang=it">Itapano</a>
+        | <a href="https://openaitx.github.io/view.html?user=20urc3&project=auditor.codes&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=20urc3&project=auditor.codes&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=20urc3&project=auditor.codes&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=20urc3&project=auditor.codes&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=20urc3&project=auditor.codes&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=20urc3&project=auditor.codes&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=20urc3&project=auditor.codes&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=20urc3&project=auditor.codes&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=20urc3&project=auditor.codes&lang=id">Bahasa Indonesia</a>
+      </div>
+    </div>
+  </details>
+</div>
+
 # Code Auditor CTF
 ![image](https://github.com/user-attachments/assets/fdfbbffc-71f9-4463-856d-aca054399a0f)
 
